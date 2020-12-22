@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **donaboyevabbos1701@gmail.com**
 
-[![Donaboyev's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Donaboyev&country_code=uzbekistan&theme=dark)]
+![Donaboyev's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Donaboyev&country_code=uzbekistan&theme=dark)
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
