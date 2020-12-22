@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **donaboyevabbos1701@gmail.com**
 
+[![Donaboyev's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Donaboyev&country_code=uzbekistan&theme=dark)]
+
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 </p>
@@ -25,7 +27,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donaboyev&layout=compact" alt="Donaboyev" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donaboyev&theme=white-blue" alt="Donaboyev" /></p>
-
-<p align="center"><[![Donaboyev's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Donaboyev&country_code=uzbekistan&theme=dark)] /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Donaboyev&show_icons=true" alt="Donaboyev" /></p>
