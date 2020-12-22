@@ -26,4 +26,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donaboyev&theme=white-blue" alt="Donaboyev" /></p>
 
+[![Donaboyev's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Donaboyev&country_code=uzbekistan&theme=dark)]
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Donaboyev&show_icons=true" alt="Donaboyev" /></p>
