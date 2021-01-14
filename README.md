@@ -13,7 +13,7 @@
 <h3 align="center">Connect with me:</h3>
 </p>
 
-<p align="center">  <a href="https://t.me/donaboyev" target="blank"><img align="middle" src="https://www.flaticon.com/free-icon/telegram_1532545?term=telegram&page=1&position=22&related_id=1532545&origin=search" alt="Donaboyev" height="30" width="40" /></a>
+<p align="center">  <a href="https://t.me/donaboyev" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/104541252-13357480-5643-11eb-896c-cec4e18ce112.png" alt="Donaboyev" height="30" width="40" /></a>
 <a href="https://instagram.com/abbos_donaboyev" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abbos_donaboyev" height="30" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
