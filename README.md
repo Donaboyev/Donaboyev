@@ -34,6 +34,8 @@
 </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285172-f6658780-6265-11eb-903b-fe5d85504ffd.png" alt="git" width="40" height="40"/> 
 </a>
+<a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285505-64aa4a00-6266-11eb-9507-fca28ab4d534.png" alt="github" width="40" height="40"/> 
+</a>
 </p>
 
 
