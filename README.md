@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on increase my existing **skills**
 
-- 💬 Ask me about **#android #kotlin**
+- 💬 Ask me about **#android #java #kotlin**
 
 - 📫 How to reach me **donaboyevabbos1701@gmail.com**
 
