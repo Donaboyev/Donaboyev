@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">, I'm Abbos</h1>
-<h3 align="center">An Android developer from Uzbekistan</h3>
+<h3 align="center">A mobile developer from Uzbekistan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Donaboyev" alt="Donaboyev" /> </p>
 
