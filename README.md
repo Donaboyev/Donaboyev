@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Donaboyev" alt="Donaboyev" /> </p>
 
-- 🌱 I’m currently working on increase my existing **skills**
+- 🌱 I’m currently learning **Flutter**
 
 - New projects soon...
 
