@@ -37,13 +37,10 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285172-f6658780-6265-11eb-903b-fe5d85504ffd.png" alt="git" width="40" height="40"/> 
 </a>
 <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285505-64aa4a00-6266-11eb-9507-fca28ab4d534.png" alt="github" width="40" height="40"/> 
-</a>
 
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/117447213-a417bf00-af56-11eb-8698-0d22c4582b2f.png" alt="postgresql" width="40" height="40"/> 
-</a>
 
 <a href="https://dart.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/117447489-07a1ec80-af57-11eb-8b06-7fc5a528a58a.png" alt="dart" width="40" height="40"/> 
-</a>
 
 <a href="http://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/117447820-6a938380-af57-11eb-91f1-f91abe8176dd.png" alt="flutter" width="40" height="40"/> 
 </a>
