@@ -23,8 +23,9 @@
 <h3 align="center">My apps on Play Store:</h3>
 </p>
 
-<p align="center">  <a href="https://play.google.com/store/apps/details?id=com.donaboyev.kinoapp" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330711-3876ab9b-680c-4a7b-817f-d69c3ef3982d.png" alt="Kino App" height="150" width="250" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.donaboyev.tugatdim" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330730-f7618c44-5298-4229-a1a5-5d22234c5541.png" alt="Task Manager App" height="150" width="250" /></a>
+<p align="center">  <a href="https://play.google.com/store/apps/details?id=com.donaboyev.kinoapp" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330711-3876ab9b-680c-4a7b-817f-d69c3ef3982d.png" alt="Kino App" height="150" width="280" /></a>
+  <a width="40" />
+<a href="https://play.google.com/store/apps/details?id=com.donaboyev.tugatdim" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330730-f7618c44-5298-4229-a1a5-5d22234c5541.png" alt="Task Manager App" height="150" width="280" /></a>
 </p>
 
 
