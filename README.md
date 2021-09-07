@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **#android #java #kotlin #dart #flutter**
 
-- 📫 How to reach me **donaboyevabbos1701@gmail.com** or **t.me/abbosdonaboyev[t.me/abbosdonaboyev]**
+- 📫 How to reach me **donaboyevabbos1701@gmail.com** 
 
 <p align="center">
 <h3 align="center">Social network:</h3>
@@ -17,6 +17,7 @@
 
 <p align="center">  <a href="https://t.me/abbosdonaboyev" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/104541252-13357480-5643-11eb-896c-cec4e18ce112.png" alt="Donaboyev" height="40" width="40" /></a>
 <a href="https://instagram.com/abbos_donaboyev" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/104541419-69a2b300-5643-11eb-971f-039c9fc60eb3.png" alt="abbos_donaboyev" height="40" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/donaboyev/" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330172-e4bb01cc-dbac-457b-9378-193e00142f13.png" alt="donaboyev" height="40" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
 
