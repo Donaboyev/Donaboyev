@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **#android #java #kotlin #dart #flutter**
 
-- 📫 How to reach me **donaboyevabbos1701@gmail.com** or **t.me/abbosdonaboyev**
+- 📫 How to reach me **donaboyevabbos1701@gmail.com** or **t.me/abbosdonaboyev[t.me/abbosdonaboyev]**
 
 <p align="center">
 <h3 align="center">Social network:</h3>
