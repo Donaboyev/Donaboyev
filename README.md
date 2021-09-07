@@ -7,12 +7,12 @@
 
 - New projects soon...
 
-- 💬 Ask me about **#android #java #kotlin**
+- 💬 Ask me about **#android #java #kotlin #dart #flutter**
 
-- 📫 How to reach me **donaboyevabbos1701@gmail.com**
+- 📫 How to reach me **donaboyevabbos1701@gmail.com** or **t.me/abbosdonaboyev**
 
 <p align="center">
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Social network:</h3>
 </p>
 
 <p align="center">  <a href="https://t.me/abbosdonaboyev" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/104541252-13357480-5643-11eb-896c-cec4e18ce112.png" alt="Donaboyev" height="40" width="40" /></a>
