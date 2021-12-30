@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Donaboyev" alt="Donaboyev" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working with **Flutter projects**
 
-- New projects soon...
+- I will upload new projects in soon
 
 - 💬 Ask me about **#android #java #kotlin #dart #flutter**
 
-- 📫 How to reach me **donaboyevabbos1701@gmail.com** 
+- 📫 How to reach me **donaboyevabbos1701@gmail.com** or **t.me/abbosdonaboyev**
 
 <p align="center">
 <h3 align="center">Social network:</h3>
