@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">, I'm Abbos</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">, I'm Abbos</h1>
 <h3 align="center">I am a mobile developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Donaboyev" alt="Donaboyev" /> </p>
