@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **Flutter projects**
 
-- I will upload new projects in soon
+- I will upload new projects in soon ...
 
 - 💬 Ask me about **#android #java #kotlin #dart #flutter**
 
