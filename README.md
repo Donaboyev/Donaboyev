@@ -1,5 +1,5 @@
 <h1 align="center">Hello, there <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px" height="30px">, I'm Abbos</h1>
-<h3 align="center">I am a mobile developer</h3>
+<h3 align="center">I am a mobile application developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Donaboyev" alt="Donaboyev" /> </p>
 
@@ -7,7 +7,7 @@
 
 - I will upload new projects in soon ...
 
-- 💬 Ask me about **#android #java #kotlin #dart #flutter**
+- 💬 Ask me about **#flutter #dart**
 
 - 📫 How to reach me **donaboyevabbos1701@gmail.com** or [t.me/abbosdonaboyev](https://t.me/abbosdonaboyev)
 
@@ -18,19 +18,6 @@
 <p align="center">  <a href="https://t.me/abbosdonaboyev" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/104541252-13357480-5643-11eb-896c-cec4e18ce112.png" alt="Donaboyev" height="40" width="40" /></a>
 <a href="https://instagram.com/abbos_donaboyev" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/104541419-69a2b300-5643-11eb-971f-039c9fc60eb3.png" alt="abbos_donaboyev" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/donaboyev/" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330172-e4bb01cc-dbac-457b-9378-193e00142f13.png" alt="donaboyev" height="40" width="40" /></a></p>
-
-<p align="center">
-<h3 align="center">My apps on Play Store:</h3>
-</p>
-
-<p align="center">  
-<a href="https://play.google.com/store/apps/details?id=com.donaboyev.kinoapp" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330711-3876ab9b-680c-4a7b-817f-d69c3ef3982d.png" alt="Kino App" height="150" width="280" /></a>
-&nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://play.google.com/store/apps/details?id=com.donaboyev.tugatdim" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330730-f7618c44-5298-4229-a1a5-5d22234c5541.png" alt="Task Manager App" height="150" width="280" /></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://play.google.com/store/apps/details?id=uz.vibo.marketplace" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/154796853-a1543cc9-6821-4b3d-809a-63a5315b53cf.png" alt="Vibo Marketplace" height="150" width="280" /></a>
-</p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 
