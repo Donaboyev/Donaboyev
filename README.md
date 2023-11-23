@@ -55,6 +55,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donaboyev&langs_count=10&theme=tokyonight" alt="Donaboyev" /></p>
 
-<h2 align="center">GitHub Activity Graph</h2>
-<!-- https://github.com/Donaboyev/github-readme-activity-graph -->
-<a href="https://github.com/Donaboyev/Donaboyev"><img alt="Donaboyev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Donaboyev&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
